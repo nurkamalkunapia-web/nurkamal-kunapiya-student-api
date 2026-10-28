@@ -1,6 +1,6 @@
 # Nurkamal Kunapiya Student API
 
-Student: Kunapiya Nurkamal
+Student: Kunapiya Nurkamal - Main Branch
 
 This project is part of my DevOps midterm assignment.
 It will contain a Spring Boot CRUD application,

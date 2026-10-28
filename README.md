@@ -19,3 +19,15 @@ The planned REST API supports the following operations: - Create a student. - Re
 The application will use Spring Boot and PostgreSQL. 
 Docker will be used for containerization, and Jenkins will automate
 the build and testing process.
+
+## Planned API Endpoints 
+
+| Method | Endpoint | Purpose |
+|--------|----------|---------|
+| POST | /api/students | Create a student |
+| GET | /api/students | Retrieve all students |
+| GET | /api/students/{id} | Retrieve a student by ID |
+| PUT | /api/students/{id} | Update a student |
+| DELETE | /api/students/{id} | Delete a student |
+
+Developer: Kunapiya Nurkamal
